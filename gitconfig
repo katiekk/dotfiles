@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = katiekklht@gmail.com
+	name = Katie Lin
